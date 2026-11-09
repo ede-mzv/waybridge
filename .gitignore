@@ -1,0 +1,20 @@
+# Gradle / Fabric Loom
+.gradle/
+.herramientas/
+build/
+run/
+out/
+
+# IDE
+.vscode/
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+# Local data / secrets
+*.log
+.env
+.env.*
+.DS_Store

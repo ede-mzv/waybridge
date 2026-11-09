@@ -1,0 +1,7 @@
+{
+  "authorized_uuids": [],
+  "cooldown_seconds": 10,
+  "max_waypoint_distance": 0,
+  "safe_search_horizontal_radius": 2,
+  "safe_search_vertical_radius": 6
+}

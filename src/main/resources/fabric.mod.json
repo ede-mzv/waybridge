@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "waybridge",
+  "version": "${version}",
+  "name": "Waybridge",
+  "description": "Teleportation for authorized players, with configurable Xaero waypoint commands. No OP required.",
+  "authors": [
+    "Waybridge contributors"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.waybridge.WaybridgeMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
